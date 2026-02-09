@@ -1,3 +1,4 @@
+<pre>
 BoneFracture_Project/
 │
 ├── 📂 research/                  # Nơi bạn train model (Không đưa vào sản phẩm cuối)
@@ -26,3 +27,4 @@ BoneFracture_Project/
 │
 ├── .gitignore                    # Để loại bỏ file rác khi up lên Github
 └── README.md                     # Tài liệu hướng dẫn (Rất quan trọng để xin việc)
+</pre>
